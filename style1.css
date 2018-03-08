@@ -1,0 +1,52 @@
+body{
+/* this is the body */
+  font-size: 14px;
+}
+
+nav {
+/* this is the navigation */
+  background color: #FFFF00;
+  height: 100px;
+  margin-top: -10px; /* creates space around elements */
+  position: fixed; /* how the image is placed on the body */
+  width: 100%;
+}
+
+section {
+/* this is the section */
+  margin: 0 auto;
+  width: 60%;
+}
+
+.element1 {
+  background-color: teal;
+}
+
+.element2 {
+  background-color: orange;
+}
+
+.element3 {
+  background-color: purple;
+}
+
+ .example {
+ /* this is header 1 */
+  font-family sans-serif;
+  font-size: 2em;
+}
+
+ h3 {
+ /* this is header 3*/
+  padding-top: 30px;
+  text-align center;
+  font-size: 1.3em;
+}
+
+.element {
+/* this is the element */
+  background-color: #008000;
+  height: 100px;
+  margin 10px 0; /* 0 = default value */
+  width: 100%;
+}
